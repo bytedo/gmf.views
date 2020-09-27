@@ -1,0 +1,14 @@
+{
+  "name": "@gm5/views",
+  "version": "1.0.0",
+  "description": "@gm5框架的模板引擎拓展包",
+  "type": "module",
+  "main": "index.js",
+  "author": "yutent <yutent.io@gmail.com>",
+  "repository": "https://github.com/bytedo/gmf.views.git",
+  "keywords": ["fivejs", "views", "smarty"],
+  "dependencies": {
+    "smartyx": "^2.1.0"
+  },
+  "license": "MIT"
+}
